@@ -24,8 +24,7 @@
 - 🔭 &nbsp; I’m currently working on **Food Ordering App with React Native**
 - 🤝 &nbsp; I’m open to collaborating on **creative web and app  
   development projects**
-- 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced  
-  frontend frameworks**
+- 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced frontend frameworks**
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)
 - 🎨 &nbsp; I combine **Figma and design tools** to build visually  
   appealing and functional UI/UX

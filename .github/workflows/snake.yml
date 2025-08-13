@@ -1,8 +1,11 @@
 name: generate snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *" # her gün çalışır
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:

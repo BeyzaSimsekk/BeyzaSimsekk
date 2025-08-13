@@ -26,7 +26,6 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/ff/08/65/ff0865b841977de534f5b6a865f992d0.gif" alt="pinterest gif" width="850"/>
 </p>
@@ -35,38 +34,36 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Typecript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="React Native" height="25" src="images/react-original.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="MongoDB" height="25" src="images/postgresql.svg"></code>
-  <code><img title="ReactQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Nodejs" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Expressjs" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Expo" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Postman" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Resilience4j" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Unreal Engine" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="MSSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Creativity" height="25" src="images/problemSolving.png"></code>
-  <code><img title="Android Studio" height="25" src="images/postgresql.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-
+  <code><img title="HTML5" height="25" src="assets/techIcons/html5.png"></code>
+  <code><img title="CSS" height="25" src="assets/techIcons/css.png"></code>
+  <code><img title="Javascript" height="25" src="assets/techIcons/javascript.png"></code>
+  <code><img title="Typecript" height="25" src="assets/techIcons/typescript.png"></code>
+  <code><img title="React" height="25" src="assets/techIcons/react.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="assets/techIcons/vscode.png"></code>
+  <code><img title="Python" height="25" src="assets/techIcons/python.png"></code>
+  <code><img title="C#" height="25" src="assets/techIcons/cSharp.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="assets/techIcons/vs.png"></code>
+  <code><img title="MongoDB" height="25" src="assets/techIcons/mongodb.png"></code>
+  <code><img title="React Query" height="25" src="assets/techIcons/reactQuery.png"></code>
+  <code><img title="Nodejs" height="25" src="assets/techIcons/jquery-original.png"></code>
+  <code><img title="Expressjs" height="25" src="assets/techIcons/expressjs.png"></code>
+  <code><img title="Expo" height="25" src="assets/techIcons/expo.svg"></code>
+  <code><img title="JSON" height="25" src="assets/techIcons/json.png"></code>
+  <code><img title="Postman" height="25" src="assets/techIcons/postman.svg"></code>
+  <code><img title="Resilience4j" height="25" src="assets/techIcons/res4j.png"></code>
+  <code><img title="Unity" height="25" src="assets/techIcons/unity.png"></code>
+  <code><img title="Unreal Engine" height="25" src="assets/techIcons/ue5.png"></code>
+  <code><img title="Android" height="25" src="assets/techIcons/android.png"></code>
+  <code><img title="GitHub" height="25" src="assets/techIcons/github.png"></code>
+  <code><img title="Git" height="25" src="assets/techIcons/git.svg"></code>
+  <code><img title="MSSQL" height="25" src="assets/techIcons/mssql.png"></code>
+  <code><img title="npm" height="25" src="assets/techIcons/npm.png"></code>
+  <code><img title="Java" height="25" src="assets/techIcons/java.png"></code>
+  <code><img title="Creativity" height="25" src="assets/techIcons/creativity.png"></code>
+  <code><img title="Android Studio" height="25" src="assets/techIcons/androidStudio.png"></code>
+  <code><img title="C" height="25" src="assets/techIcons/c.svg"></code>
+  <code><img title="C++" height="25" src="assets/techIcons/cpp.png"></code>>
+  <code><img title="MySQL" height="25" src="assets/techIcons/mysql.svg"></code>
 
 </p>
 <hr>

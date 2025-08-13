@@ -8,8 +8,7 @@
   </a>
 </h1>
 
-📍I am a versatile Junior Web Developer, passionate about **frontend development** while also exploring **full-stack projects** 🌐. I have experience in **game development, AI-based computer vision, and app development** 📱. With a keen eye for design 🎨, I craft **user-friendly and aesthetic interfaces**. Highly responsible, problem-solving, and goal-oriented, I love bringing ideas to life through code 🛠️.  
-
+📍I am a versatile Junior Web Developer, passionate about **frontend development** while also exploring **full-stack projects** 🌐. I have experience in **game development, AI-based computer vision, and app development** 📱. With a keen eye for design 🎨, I craft **user-friendly and aesthetic interfaces**. Highly responsible, problem-solving, and goal-oriented, I love bringing ideas to life through code 🛠️.
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ummu-beyza-simsek/" title="LinkedIn Profile"><img width="58" height="64" src="assets/linkedin.png"></a></code>
@@ -22,18 +21,17 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Food Ordering App with React Native**  
+- 🔭 &nbsp; I’m currently working on **Food Ordering App with React Native**
 - 🤝 &nbsp; I’m open to collaborating on **creative web and app  
-development projects**  
+  development projects**
 - 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced  
-frontend frameworks**  
-- 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)  
+  frontend frameworks**
+- 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)
 - 🎨 &nbsp; I combine **Figma and design tools** to build visually  
-appealing and functional UI/UX  
-- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/ummu-beyza-simsek/)  
-- 📝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1Syq9DZBG3lKU0oFkykT3cv6ZPZQu4ZoQ/view)  
+  appealing and functional UI/UX
+- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/ummu-beyza-simsek/)
+- 📝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1Syq9DZBG3lKU0oFkykT3cv6ZPZQu4ZoQ/view)
 - 📚 &nbsp; In my free time, I enjoy **reading, exploring philosophy** and **diving into tech innovations**. Checkout my [1000kitap](https://1000kitap.com/totorodiaries)
-  
 
 <hr>
 <h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
@@ -56,6 +54,7 @@ appealing and functional UI/UX
   <code><img title="JSON" height="25" src="assets/techIcons/json.png"></code>
   </p>
   <p align="center">
+  <code><img title="Figma" height="25" src="assets/techIcons/figma.png"></code>
   <code><img title="Postman" height="25" src="assets/techIcons/postman.svg"></code>
   <code><img title="Resilience4j" height="25" src="assets/techIcons/res4j.png"></code>
   <code><img title="Unity" height="25" src="assets/techIcons/unity.png"></code>
@@ -94,9 +93,8 @@ appealing and functional UI/UX
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&hide_border=true" width="90%"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&hide_border=true" width="90%"/>
 </p>
-
 
 <h2 align="center">💫 Repositories 💫</h2>
 <br>
@@ -119,7 +117,6 @@ appealing and functional UI/UX
 <div width="100%" align="center">
   <a align="center" href="https://github.com/BeyzaSimsekk/Quantization_and_Validation_of_YOLOv8n_Model" title="YOLOv8n Model Project"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Quantization_and_Validation_of_YOLOv8n_Model&theme=omni&border_color=61dafb&border_radius=10"></a>
 </div>
-
 
 <h4 align="center">
   <a href="https://github.com/BeyzaSimsekk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>

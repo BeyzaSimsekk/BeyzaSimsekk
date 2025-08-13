@@ -62,7 +62,7 @@
   <code><img title="Creativity" height="25" src="assets/techIcons/creativity.png"></code>
   <code><img title="Android Studio" height="25" src="assets/techIcons/androidStudio.png"></code>
   <code><img title="C" height="25" src="assets/techIcons/c.svg"></code>
-  <code><img title="C++" height="25" src="assets/techIcons/cpp.png"></code>>
+  <code><img title="C++" height="25" src="assets/techIcons/cpp.png"></code>
   <code><img title="MySQL" height="25" src="assets/techIcons/mysql.svg"></code>
 
 </p>

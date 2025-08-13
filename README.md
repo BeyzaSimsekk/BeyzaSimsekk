@@ -77,21 +77,21 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=BeyzaSimsekk&theme=omni&border=ed02ba&hide_border=true" alt="beyza-simsek" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=BeyzaSimsekk&theme=omni&border=d902e0&hide_border=false" alt="beyza-simsek" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeyzaSimsekk&show_icons=true&theme=omni&border_color=ed02ba&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeyzaSimsekk&show_icons=true&theme=omni&border_color=d902e0&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaSimsekk&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e861c9&text_color=ffffff&icon_color=ed02ba&bg_color=20232a&langs_count=8&layout=compact&border_color=ed02ba&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaSimsekk&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e861c9&text_color=ffffff&icon_color=ed02ba&bg_color=20232a&langs_count=8&layout=compact&border_color=d902e0&hide_border=false&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&border_color=d902e0&hide_border=false" width="100%"/>
 </p>
 
 <h2 align="center">💫 Repositories 💫</h2>

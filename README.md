@@ -26,8 +26,7 @@
   development projects**
 - 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced frontend frameworks**
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)
-- 🎨 &nbsp; I combine **Figma and design tools** to build visually  
-  appealing and functional UI/UX
+- 🎨 &nbsp; I combine **Figma and design tools** to build visually appealing and functional UI/UX
 - 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/ummu-beyza-simsek/)
 - 📝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1Syq9DZBG3lKU0oFkykT3cv6ZPZQu4ZoQ/view)
 - 📚 &nbsp; In my free time, I enjoy **reading, exploring philosophy** and **diving into tech innovations**. Checkout my [1000kitap](https://1000kitap.com/totorodiaries)

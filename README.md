@@ -91,7 +91,7 @@
   </div>
   <br>
 
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&hide_border=true" width="100%"/>
 </p>
 
 <h2 align="center">💫 Repositories 💫</h2>

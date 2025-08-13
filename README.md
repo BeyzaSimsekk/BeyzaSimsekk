@@ -49,6 +49,8 @@
   <code><img title="Expressjs" height="25" src="assets/techIcons/expressjs.png"></code>
   <code><img title="Expo" height="25" src="assets/techIcons/expo.svg"></code>
   <code><img title="JSON" height="25" src="assets/techIcons/json.png"></code>
+  </p>
+  <p align="center">
   <code><img title="Postman" height="25" src="assets/techIcons/postman.svg"></code>
   <code><img title="Resilience4j" height="25" src="assets/techIcons/res4j.png"></code>
   <code><img title="Unity" height="25" src="assets/techIcons/unity.png"></code>

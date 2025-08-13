@@ -37,8 +37,8 @@
 <p align="center">
   <code><img title="HTML5" height="25" src="assets/techIcons/html5.png"></code>
   <code><img title="CSS" height="25" src="assets/techIcons/css.png"></code>
-  <code><img title="Javascript" height="25" src="assets/techIcons/javascript.png"></code>
-  <code><img title="Typecript" height="25" src="assets/techIcons/typescript.png"></code>
+  <code><img title="JavaScript" height="25" src="assets/techIcons/javascript.png"></code>
+  <code><img title="TypeScript" height="25" src="assets/techIcons/typescript.png"></code>
   <code><img title="React" height="25" src="assets/techIcons/react.png"></code>
   <code><img title="Visual Studio Code" height="25" src="assets/techIcons/vscode.png"></code>
   <code><img title="Python" height="25" src="assets/techIcons/python.png"></code>

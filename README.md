@@ -10,29 +10,29 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ummu-beyza-simsek/" target="_blank">
-    <img width="58" height="64" alt="Icons (5)" src="https://github.com/user-attachments/assets/f0060e01-973d-401c-8bc9-85ec9e5fb57a" alt="Linkedin"/>
+    <img width="58" height="64" alt="linkedin" src="assets/linkedin.png" alt="Linkedin"/>
     </a>
     &nbsp;&nbsp;
   <a href="https://medium.com/@beyza.simsek" target="_blank">
-<img width="58" height="64" alt="Icons (4)" src="https://github.com/user-attachments/assets/b3e2faba-944b-4c99-be81-8d21b8830324" alt="Medium"/>
+<img width="58" height="64" alt="medium" src="assets/medium.png" alt="Medium"/>
 </a>
 &nbsp;&nbsp;
   <a href="https://www.youtube.com/@totorodiaries" target="_blank">
-    <img width="58" height="64" alt="Icons (8)" src="https://github.com/user-attachments/assets/236e3f17-429b-4c2d-ada3-4e42c2fa68da" alt="YouTube"/>
+    <img width="58" height="64" alt="youtube" src="assets/youtube.png" alt="YouTube"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.kaggle.com/beyzasimsek" target="_blank">
-    <img width="58" height="64" alt="Icons (7)" src="https://github.com/user-attachments/assets/f6a0eec1-4c70-41e7-bdd5-ba56eb32d20f" alt="Kaggle"/>
+    <img width="58" height="64" alt="kaggle" src="assets/kaggle.png" alt="Kaggle"/>
   </a>
 </p>
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ff/08/65/ff0865b841977de534f5b6a865f992d0.gif" alt="pinterest gif" width="850"/>
+  <img src="assets/pink_gif.gif" alt="pinterest gif" width="850"/>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
 <br>
 <p align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>

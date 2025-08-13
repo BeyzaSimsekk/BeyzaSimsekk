@@ -52,6 +52,7 @@
   <code><img title="Expressjs" height="25" src="assets/techIcons/expressjs.png"></code>
   <code><img title="Expo" height="25" src="assets/techIcons/expo.svg"></code>
   <code><img title="JSON" height="25" src="assets/techIcons/json.png"></code>
+  <code><img title="Tailwind" height="25" src="assets/techIcons/tailwind.png"></code>
   </p>
   <p align="center">
   <code><img title="Figma" height="25" src="assets/techIcons/figma.png"></code>

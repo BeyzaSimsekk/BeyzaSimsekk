@@ -45,7 +45,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="assets/techIcons/vs.png"></code>
   <code><img title="MongoDB" height="25" src="assets/techIcons/mongodb.png"></code>
   <code><img title="React Query" height="25" src="assets/techIcons/reactQuery.png"></code>
-  <code><img title="Nodejs" height="25" src="assets/techIcons/jquery-original.png"></code>
+  <code><img title="Nodejs" height="25" src="assets/techIcons/nodejs.png"></code>
   <code><img title="Expressjs" height="25" src="assets/techIcons/expressjs.png"></code>
   <code><img title="Expo" height="25" src="assets/techIcons/expo.svg"></code>
   <code><img title="JSON" height="25" src="assets/techIcons/json.png"></code>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%E2%9C%A8&&animation=fadeIn&type=soft&color=gradient&fontColor=4e195e&customColorList=18&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%E2%9C%A8&&animation=fadeIn&type=waving&color=gradient&fontColor=f2c7f2&customColorList=18&height=100"/>
 </p>
 
 <h1 align="center">
@@ -8,27 +8,32 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ummu-beyza-simsek/" target="_blank">
-    <img width="58" height="64" alt="linkedin" src="assets/linkedin.png" alt="Linkedin"/>
-    </a>
-    &nbsp;&nbsp;
-  <a href="https://medium.com/@beyza.simsek" target="_blank">
-<img width="58" height="64" alt="medium" src="assets/medium.png" alt="Medium"/>
-</a>
-&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@totorodiaries" target="_blank">
-    <img width="58" height="64" alt="youtube" src="assets/youtube.png" alt="YouTube"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/beyzasimsek" target="_blank">
-    <img width="58" height="64" alt="kaggle" src="assets/kaggle.png" alt="Kaggle"/>
-  </a>
-</p>
+📍I am a versatile Junior Web Developer, passionate about **frontend development** while also exploring **full-stack projects** 🌐. I have experience in **game development, AI-based computer vision, and app development** 📱. With a keen eye for design 🎨, I craft **user-friendly and aesthetic interfaces**. Highly responsible, problem-solving, and goal-oriented, I love bringing ideas to life through code 🛠️.  
 
-<p align="center">
-  <img src="assets/pink_gif.gif" alt="pinterest gif" width="850"/>
-</p>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/ummu-beyza-simsek/" title="LinkedIn Profile"><img width="58" height="64" src="assets/linkedin.png"></a></code>
+  <code><a href="https://medium.com/@beyza.simsek" title="Medium Profile"><img width="58" height="64" src="assets/medium.png"></a></code>
+  <code><a href="https://www.youtube.com/@totorodiaries" title="YouTube Channel"><img width="58" height="64" src="assets/youtube.png"></a></code>
+  <code><a href="https://www.kaggle.com/beyzasimsek" title="Kaggle Profile"><img width="58" height="64" src="assets/kaggle.png"></a></code>
+</h5>
+
+<img align="right" src="assets/pink_gif.gif" alt="pinterest gif" width="550"/>
+
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **Food Ordering App with React Native**  
+- 🤝 &nbsp; I’m open to collaborating on **creative web and app  
+development projects**  
+- 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced  
+frontend frameworks**  
+- 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)  
+- 🎨 &nbsp; I combine **Figma and design tools** to build visually  
+appealing and functional UI/UX  
+- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/ummu-beyza-simsek/)  
+- 📝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1Syq9DZBG3lKU0oFkykT3cv6ZPZQu4ZoQ/view)  
+- 📚 &nbsp; In my free time, I enjoy **reading, exploring philosophy** and **diving into tech innovations**. Checkout my [1000kitap](https://1000kitap.com/totorodiaries)
+  
 
 <hr>
 <h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
@@ -69,3 +74,53 @@
 
 </p>
 <hr>
+
+<h2 align="center">📊 Stats 📊</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=BeyzaSimsekk&theme=omni&border=61dafb&hide_border=true" alt="beyza-simsek" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeyzaSimsekk&show_icons=true&theme=omni&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeyzaSimsekk&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=e861c9&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&hide_border=true" width="90%"/>
+</p>
+
+
+<h2 align="center">💫 Repositories 💫</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/BeyzaSimsekk/Food_Ordering_App" title="Food Ordering App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Food_Ordering_App&theme=omni&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/Real_Estate_Fullstack" title="Real Estate Web Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Real_Estate_Fullstack&theme=omni&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KFAU-Academy/KFAUAcademy_GraduationProject" title="KFAU Academy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KFAU-Academy&repo=KFAUAcademy_GraduationProject&theme=omni&border_color=61dafb&border_radius=10"><a align="right" href="https://github.com/BeyzaSimsekk/MIPS_16bit_Simulator" title="MIPS Simulator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=MIPS_16bit_Simulator&theme=omni&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="" title="Chase Horror Game, Unreal Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=ChaseHorrorGame&theme=omni&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/FocusApp" title="Focus App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=FocusApp&theme=omni&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/BeyzaSimsekk/totorodiaries" title="Totoro's Diaries, My First Web Site Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=totorodiaries&theme=omni&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/MyFirst2DGame" title="My Fist 2D Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=MyFirst2DGame&theme=omni&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/BeyzaSimsekk/Quantization_and_Validation_of_YOLOv8n_Model" title="YOLOv8n Model Project"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Quantization_and_Validation_of_YOLOv8n_Model&theme=omni&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+<h4 align="center">
+  <a href="https://github.com/BeyzaSimsekk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>

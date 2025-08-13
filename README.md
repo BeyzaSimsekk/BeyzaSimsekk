@@ -120,4 +120,4 @@
   <a href="https://github.com/BeyzaSimsekk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)

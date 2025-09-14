@@ -21,7 +21,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Movie App Named 'Molix' with React Native** & **AI NFT Generator with React** & **Backend Subscription Tracker Project with Javascript**
+- 🔭 &nbsp; I’m currently working on **Movie App Named 'Molix' with React Native** & **Backend Subscription Tracker Project with Javascript**
 - 🤝 &nbsp; I’m open to collaborating on **creative web and app  
   development projects**
 - 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced frontend frameworks**

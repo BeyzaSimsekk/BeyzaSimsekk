@@ -17,6 +17,13 @@
   <code><a href="https://www.kaggle.com/beyzasimsek" title="Kaggle Profile"><img width="58" height="64" src="assets/kaggle.png"></a></code>
 </h5>
 
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeyzaSimsekk&color=ff69b4">
+  <br>
+  <br>
+</div>
+	
 <img align="right" src="assets/pink_gif.gif" alt="pinterest gif" width="550"/>
 
 ### 🧐 More About Me:
@@ -120,5 +127,9 @@
 <h4 align="center">
   <a href="https://github.com/BeyzaSimsekk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<div align="center">
+  <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&visitortype=number" alt="Visitor Counter">
+</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)

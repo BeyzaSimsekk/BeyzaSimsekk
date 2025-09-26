@@ -1,4 +1,4 @@
-<p align="center">
+<p id="top" align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%E2%9C%A8&&animation=fadeIn&type=waving&color=gradient&fontColor=f2c7f2&customColorList=18&height=100"/>
 </p>
 
@@ -7,6 +7,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=✨This+is+Beyza+Şimşek....;Nice+to+meet+you!&center=true&size=30&color=e861c9">
   </a>
 </h1>
+
+<!--------------------------------------------------------------------------------  ABOUT ME --------------------------------------------------------------------------->
 
 📍I am a versatile Junior Web Developer, passionate about **frontend development** while also exploring **full-stack projects** 🌐. I have experience in **game development, AI-based computer vision, and app development** 📱. With a keen eye for design 🎨, I craft **user-friendly and aesthetic interfaces**. Highly responsible, problem-solving, and goal-oriented, I love bringing ideas to life through code 🛠️.
 
@@ -26,6 +28,8 @@
 	
 <img align="right" src="assets/pink_gif.gif" alt="pinterest gif" width="550"/>
 
+<!-------------------------------------------------------------------------------- MORE ABOUT ME --------------------------------------------------------------------------->
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Movie App Named 'Molix' with React Native** & **Backend Subscription Tracker Project with Javascript**
@@ -37,6 +41,8 @@
 - 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/ummu-beyza-simsek/)
 - 📝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1ryLi4bu3fiSDE9M6og7KviXEyB6dliS0/view?usp=sharing)
 - 📚 &nbsp; In my free time, I enjoy **reading, exploring philosophy** and **diving into tech innovations**. Checkout my [1000kitap](https://1000kitap.com/totorodiaries)
+
+<!-------------------------------------------------------------------------------- TECH STACK (ileride daha profesyonel yapcam) --------------------------------------------------------------------------->
 
 <hr>
 <h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
@@ -154,16 +160,23 @@
 <br>
 <br>
 
+<!-------------------------------------------------------------------------------- VISITOR COUNTER --------------------------------------------------------------------------->
+
 <div align="center">
   <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&columns=8&maxflags=250&visitortype=number&bg=1C171B&text=FFE5F9&border=E861C9" alt="Visitor Counter">
 </div>
 
+<!-------------------------------------------------------------------------------- SNAKE --------------------------------------------------------------------------->
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)
+
+<!-------------------------------------------------------------------------------- RANDOM QUOTES --------------------------------------------------------------------------->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
 
+<!-------------------------------------------------------------------------------- SPOTIFY --------------------------------------------------------------------------->
 
 <div align="center">
 	<br>
@@ -171,4 +184,12 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0pqzzxep0afg14umaij8rcxgm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
   <br>
+</div>
+
+<!-- Back to top buton -->
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-e861c9?style=for-the-badge" alt="Back to Stats"/>
+  </a>
 </div>

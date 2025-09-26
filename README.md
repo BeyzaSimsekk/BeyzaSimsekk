@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeyzaSimsekk&color=ff69b4">
+  <img src="https://komarev.com/ghpvc/?username=BeyzaSimsekk&color=ff69b4&abbreviated=true&style=flat">
   <br>
   <br>
 </div>
@@ -80,7 +80,7 @@
 </p>
 <hr>
 
-<h2 align="center">📊 Stats 📊</h2>
+<h2 id="stats-section" align="center">📊 Stats 📊</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -100,7 +100,17 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyzaSimsekk&bg_color=f2c7f2&border_color=d902e0&hide_border=false" width="100%"/>
+
+  <div align="center">
+  	<img src="https://github-trophies.vercel.app/?username=BeyzaSimsekk&theme=minimal&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </div>
 </p>
+
+<div align="right">
+  <a href="#stats-section">
+    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Stats-e861c9?style=for-the-badge" alt="Back to Stats"/>
+  </a>
+</div>
 
 <h2 align="center">💫 Repositories 💫</h2>
 <br>
@@ -129,7 +139,20 @@
 </h4>
 
 <div align="center">
-  <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&visitortype=number&bg=1C171B&text=FFE5F9&border=E861C9" alt="Visitor Counter">
+  <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&columns=8&maxflags=250&visitortype=number&bg=1C171B&text=FFE5F9&border=E861C9" alt="Visitor Counter">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+
+<div align="center">
+	<br>
+	
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0pqzzxep0afg14umaij8rcxgm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+  <br>
+</div>

@@ -129,7 +129,7 @@
 </h4>
 
 <div align="center">
-  <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&visitortype=number" alt="Visitor Counter">
+  <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&visitortype=number&bg=1C171B&text=FFE5F9&border=E861C9" alt="Visitor Counter">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)

@@ -80,6 +80,8 @@
 </p>
 <hr>
 
+<!-------------------------------------------------------------------------------- STATS --------------------------------------------------------------------------->
+
 <h2 id="stats-section" align="center">📊 Stats 📊</h2>
 <br>
 <p align=center>
@@ -106,13 +108,17 @@
   </div>
 </p>
 
+<!-- Back to stats buton -->
+
 <div align="right">
   <a href="#stats-section">
     <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Stats-e861c9?style=for-the-badge" alt="Back to Stats"/>
   </a>
 </div>
 
-<h2 align="center">💫 Repositories 💫</h2>
+<!-------------------------------------------------------------------------------- REPOSITORIES --------------------------------------------------------------------------->
+
+<h2 id="repo-section" align="center">💫 Repositories 💫</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BeyzaSimsekk/Food_Ordering_App" title="Food Ordering App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Food_Ordering_App&theme=omni&border_color=ed02ba&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/Real_Estate_Fullstack" title="Real Estate Web Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Real_Estate_Fullstack&theme=omni&border_color=ed02ba&border_radius=10"></a>
@@ -137,6 +143,16 @@
 <h4 align="center">
   <a href="https://github.com/BeyzaSimsekk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<!-- Back to repositories buton -->
+
+<div align="right">
+  <a href="#repo-section">
+    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Repositories-e861c9?style=for-the-badge" alt="Back to Stats"/>
+  </a>
+</div>
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&columns=8&maxflags=250&visitortype=number&bg=1C171B&text=FFE5F9&border=E861C9" alt="Visitor Counter">

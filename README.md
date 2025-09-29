@@ -23,12 +23,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BeyzaSimsekk&color=ff69b4&abbreviated=true&style=flat">
   <br>
-  <br>
 </div>
-	
-<img align="right" src="assets/pink_gif.gif" alt="pinterest gif" width="550"/>
 
 <!-------------------------------------------------------------------------------- MORE ABOUT ME --------------------------------------------------------------------------->
+
+<div>
+	<img align="right" src="assets/pink_gif.gif" alt="pinterest gif" width="550"/>
 
 ### 🧐 More About Me:
 
@@ -41,6 +41,7 @@
 - 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/ummu-beyza-simsek/)
 - 📝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1ryLi4bu3fiSDE9M6og7KviXEyB6dliS0/view?usp=sharing)
 - 📚 &nbsp; In my free time, I enjoy **reading, exploring philosophy** and **diving into tech innovations**. Checkout my [1000kitap](https://1000kitap.com/totorodiaries)
+</div>
 
 <!-------------------------------------------------------------------------------- TECH STACK (ileride daha profesyonel yapcam) --------------------------------------------------------------------------->
 

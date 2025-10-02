@@ -32,7 +32,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Movie App Named 'Molix' with React Native** & **Backend Subscription Tracker Project with Javascript**
+- 🔭 &nbsp; I’m currently working on **Movie App Named 'Molix' & Food Ordering App Named 'Foodix' with React Native** & **3 Fullstack App with React.js**
 - 🤝 &nbsp; I’m open to collaborating on **creative web and app  
   development projects**
 - 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced frontend frameworks**

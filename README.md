@@ -32,7 +32,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **AI-powered Resume Analyzer Project** & **E-Commerce App with React.js**
+- 🔭 &nbsp; I’m currently working on **AI-powered Resume Analyzer Project** & **Gemini Clone**
 - 🤝 &nbsp; I’m open to collaborating on **creative web and app development projects**
 - 🌱 &nbsp; I’m currently learning **TypeScript, React Native and advanced frontend frameworks**
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)

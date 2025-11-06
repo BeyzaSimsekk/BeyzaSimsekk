@@ -127,7 +127,11 @@
 <h2 id="repo-section" align="center">💫 Repositories 💫</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/BeyzaSimsekk/Food_Ordering_App" title="Food Ordering App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Food_Ordering_App&theme=omni&border_color=ed02ba&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/Real_Estate_Fullstack" title="Real Estate Web Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Real_Estate_Fullstack&theme=omni&border_color=ed02ba&border_radius=10"></a>
+  <a align="left" href="https://github.com/BeyzaSimsekk/SHOPIX_E-Commerce_App" title="Shopix E-Commerce Fullstack App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=SHOPIX_E-Commerce_App&theme=omni&border_color=ed02ba&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/Real_Estate_Fullstack" title="Real Estate Web Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Real_Estate_Fullstack&theme=omni&border_color=ed02ba&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/BeyzaSimsekk/Food_Ordering_App" title="Food Ordering App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Food_Ordering_App&theme=omni&border_color=ed02ba&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/mobile_movie_app" title="Molix Movie App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=mobile_movie_app&theme=omni&border_color=ed02ba&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -143,8 +147,9 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/BeyzaSimsekk/Quantization_and_Validation_of_YOLOv8n_Model" title="YOLOv8n Model Project"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Quantization_and_Validation_of_YOLOv8n_Model&theme=omni&border_color=ed02ba&border_radius=10"></a>
+  <a align="left" href="https://github.com/BeyzaSimsekk/subscription-tracker" title="Subscription Tracker JS Backend Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=subscription-tracker&theme=omni&border_color=ed02ba&border_radius=10"></a><a align="right" href="https://github.com/BeyzaSimsekk/Quantization_and_Validation_of_YOLOv8n_Model" title="YOLOv8n Model Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyzaSimsekk&repo=Quantization_and_Validation_of_YOLOv8n_Model&theme=omni&border_color=ed02ba&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/BeyzaSimsekk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>

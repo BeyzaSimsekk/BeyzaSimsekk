@@ -165,12 +165,6 @@
 <br>
 <br>
 
-<!-------------------------------------------------------------------------------- VISITOR COUNTER --------------------------------------------------------------------------->
-
-<div align="center">
-  <img src="https://github-visitor-counter-zeta.vercel.app/api?username=BeyzaSimsekk&columns=8&maxflags=250&visitortype=number&bg=1C171B&text=FFE5F9&border=E861C9" alt="Visitor Counter">
-</div>
-
 <!-------------------------------------------------------------------------------- SNAKE --------------------------------------------------------------------------->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![snake animation](https://raw.githubusercontent.com/BeyzaSimsekk/BeyzaSimsekk/output/github-snake-dark.svg)

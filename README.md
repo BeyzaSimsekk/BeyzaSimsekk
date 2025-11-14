@@ -32,7 +32,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **AI-powered Resume Analyzer Project** & **Gemini Clone**
+- 🔭 &nbsp; I’m currently working on **BYZAI | ChatGPT Clone Project**
 - 🤝 &nbsp; I’m open to collaborating on **creative web and app development projects**
 - 🌱 &nbsp; I’m currently praticing my knowledge on **TypeScript, JavaScript and advanced frontend frameworks**
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/BeyzaSimsekk?tab=repositories)
